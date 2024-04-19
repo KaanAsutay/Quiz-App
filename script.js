@@ -11,6 +11,16 @@ const questions = [
     },
 
     {
+        question: "Which is the smallest country in the world?",
+        answer: [
+            { text: "Vatican City", correct: true },
+            { text: "Bhutan", correct: false },
+            { text: "Istanbul", correct: false },
+            { text: "Nepal", correct: false },
+        ]
+    },
+
+    {
         question: "Which is the largest desert in the world?",
         answer: [
             { text: "Kalahari", correct: false },
